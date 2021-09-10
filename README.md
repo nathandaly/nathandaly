@@ -44,9 +44,18 @@
   <a href="https://twitter.com/_ndaly">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/>
-  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+  
+  <a href="https://www.linkedin.com/in/nathan-daly/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.twitch.tv/phpcast">
+    <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.youtube.com/user/del4nath/videos">
+    <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
