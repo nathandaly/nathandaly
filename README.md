@@ -12,17 +12,6 @@
 
 <br/>
 
-## Socials
-
-<p align="middle">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white"/>
-  <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=twitch&logoColor=white"/>
-  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?logo=youtube&logoColor=white"/>
-</p>
-
-<br/>
-
 ## Technologies I Use
 <p align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -47,6 +36,18 @@
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
+<br/>
+
+## Socials
+
+<p align="middle">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white"/>
+  <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=twitch&logoColor=white"/>
+  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?logo=youtube&logoColor=white"/>
+</p>
+
+<br/>
 
 ## My GitHub Stats
 
