@@ -12,9 +12,8 @@
 
 <br/>
 
-<h4 align="center">Technologies I Use</h3>
 ## Technologies I Use
-<p align="center">
+<p align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET%205+-%2356348F.svg?style=for-the-badge&logo=.NET&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20ui-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
