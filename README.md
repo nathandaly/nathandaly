@@ -41,10 +41,10 @@
 ## Socials
 
 <p align="center">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white"/>
-  <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=twitch&logoColor=white"/>
-  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?logo=youtube&logoColor=white"/>
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/>
+  <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
 </p>
 
 <br/>
