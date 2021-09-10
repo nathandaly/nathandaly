@@ -15,7 +15,7 @@
 
 ## Technologies I Use
 <p align="center">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%2356348F.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET%205+-%2356348F.svg?style=for-the-badge&logo=.NET&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
