@@ -17,10 +17,12 @@
 <p align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET%205+-%2356348F.svg?style=for-the-badge&logo=.NET&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20ui-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="ReactNative" src="https://img.shields.io/badge/React Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Nest" src="https://img.shields.io/badge/Nest.js-%23DE234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%234fc08d"/>
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
@@ -31,6 +33,8 @@
   <img alt="MaterialUI" src="https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=Material-UI&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/PhpStorm-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
 
