@@ -12,6 +12,7 @@
 
 <br/>
 
+<h4 align="center">Technologies I Use</h3>
 ## Technologies I Use
 <p align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
