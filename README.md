@@ -41,6 +41,10 @@
 ## Socials
 
 <p align="center">
+  <a href="https://www.natedaly.com/">
+    <img alt="personal" src="https://img.shields.io/badge/personal-%239f7aea.svg?style=for-the-badge&logo=about.me&logoColor=white"/>
+  </a>
+  
   <a href="https://twitter.com/_ndaly">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
