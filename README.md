@@ -24,7 +24,7 @@
   <img alt="Nest" src="https://img.shields.io/badge/Nest.js-%23DE234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%234fc08d"/>
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
-  <img alt="Vite" src="https://img.shields.io/badge/vue-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
