@@ -13,7 +13,7 @@
 <br/>
 
 ## Technologies I Use
-<p align="left">
+<p align="centre">
   <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET%205+-%2356348F.svg?style=for-the-badge&logo=.NET&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20ui-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -40,10 +40,10 @@
 
 ## Socials
 
-<p align="left">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/><br/>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white"/><br/>
-  <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=twitch&logoColor=white"/><br/>
+<p align="centre">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white"/>
+  <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=twitch&logoColor=white"/>
   <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?logo=youtube&logoColor=white"/>
 </p>
 
