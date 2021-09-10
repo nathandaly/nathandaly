@@ -34,7 +34,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/PhpStorm-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
 
