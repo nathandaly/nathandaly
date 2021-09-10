@@ -40,7 +40,7 @@
 
 ## Socials
 
-<p align="middle">
+<p align="left">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white"/>
   <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=twitch&logoColor=white"/>
