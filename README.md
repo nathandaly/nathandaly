@@ -4,7 +4,7 @@
 
 <br />
 
-- 🔭 I’m currently working on startup for caravan parks in Laravel, React and .NET.
+- 🔭 I’m currently working on startup for caravan parks in Laravel, React and .NET
 - 🌱 I’m currently learning .NET 5 and Flutter
 - 😄 Pronouns: He/Him
 - 📫 You can connect with me on Twitter [@debbie_digital](https://www.twitter.com/debbie_digital)
