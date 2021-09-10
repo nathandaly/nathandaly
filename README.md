@@ -13,7 +13,7 @@
 <br/>
 
 ## Technologies I Use
-<p align="centre">
+<p align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP%207.4+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET%205+-%2356348F.svg?style=for-the-badge&logo=.NET&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20ui-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -40,7 +40,7 @@
 
 ## Socials
 
-<p align="centre">
+<p align="center">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/>
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white"/>
   <img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=twitch&logoColor=white"/>
