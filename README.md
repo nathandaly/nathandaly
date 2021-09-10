@@ -26,7 +26,8 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white"/>
 </p>
 
 
