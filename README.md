@@ -74,5 +74,6 @@
 </a>
 </p>
 
-
-<a align="center" href="https://app.daily.dev/_nate"><img src="https://api.daily.dev/devcards/97f79216ad7a414483d4d7bacdb2b621.png?r=yb9" width="400" alt="Nate Daly's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/_nate"><img src="https://api.daily.dev/devcards/97f79216ad7a414483d4d7bacdb2b621.png?r=yb9" width="400" alt="Nate Daly's Dev Card"/></a>
+</p>
