@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Nate ✨</h1>
 
-<h3 align="center">I'm a Lead Developer base near Cmabridge, Engalnd.</h3>
+<h3 align="center">I'm a Lead Developer base near Cambridge, England.</h3>
 
 <br />
 
-- 🔭 I’m currently working on startup for caravan parks in Laravel, React and .NET
-- 🌱 I’m currently learning .NET 5 and Flutter
+- 🔭 I’m currently working on startup for caravan parks in TALL stack.
+- 🌱 I’m currently overhauling a legacy code base at my company to TALL stack.
 - 😄 Pronouns: He/Him
 - 📫 You can connect with me on Twitter [@_ndaly](https://www.twitter.com/_ndaly)
 - ⭐ Find me on LinkedIn https://www.linkedin.com/in/nathan-daly/
@@ -21,14 +21,12 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Nest" src="https://img.shields.io/badge/Nest.js-%23DE234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%234fc08d"/>
-  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Azure" src="https://img.shields.io/badge/azure-%233178C6.svg?style=for-the-badge&logo=azure&logoColor=%23F7DF1E"/>
   <img alt="Ploi" src="https://img.shields.io/badge/ploi-%231853DB.svg?style=for-the-badge&logo=ploi&logoColor=%231853DB"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
 <br/>
